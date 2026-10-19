@@ -8,7 +8,7 @@ Serve `dist/` with a local static HTTP server. No build step or package install 
 
 ## Publication
 
-Publication is pending the owner's review of this exact site and destination. A private repository is source storage, not a public deployment. The planned address is `siegeatsundown.com` with GitHub Pages. Configure domain ownership verification and Pages before pointing DNS. No domain is registered by the presence of this README.
+The owner approved this exact site and public source repository on 19 October 2026. GitHub Pages publishes `dist/` through the manually dispatched `pages.yml` workflow. The custom domain is `siegeatsundown.com`; its apex and `www` DNS records point to GitHub Pages. A successful workflow is separate from DNS propagation and HTTPS certificate readiness, which must be checked after deployment.
 
 ## Assets
 
